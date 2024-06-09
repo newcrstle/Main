@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"]
+ACCOUNTS=["GB6AWOG77K5MMUTTT6THE4DLQX54JU7BAHOO7FO3BE6DJUZJ4FZSDZAX"]
 
 [DOCUMENTATION]
-ORG_NAME="WallStreetBets"
-ORG_URL="https://www.wsb-stellar.com/"
-ORG_DESCRIPTION="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-ORG_LOGO="https://www.wsb-stellar.com/wsb.png"
+ORG_NAME="Newcrest Mining"
+ORG_URL="https://www.stellarnewcrest.com/"
+ORG_DESCRIPTION="Newcrest Mining Limited is an Australian-based corporation which engages in the exploration, development, mining and sale of gold and the froth flotation product, gold-copper concentrate."
+ORG_LOGO="https://www.stellarnewcrest.com/new.png"
 
 
 [[CURRENCIES]]
-code="WSB"
+code="NGOLD"
 status="live"
 display_decimals=2
-issuer="GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"
+issuer="GB6AWOG77K5MMUTTT6THE4DLQX54JU7BAHOO7FO3BE6DJUZJ4FZSDZAX"
 anchor_asset_type="crypto"
-name="WallStreetBets"
-desc="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-image="https://www.wsb-stellar.com/wsb.png"
+name="GOLD"
+desc="Newcrest Mining Limited is an Australian-based corporation which engages in the exploration, development, mining and sale of gold and the froth flotation product, gold-copper concentrate."
+image="https://www.stellarnewcrest.com/new.png"
